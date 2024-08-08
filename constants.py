@@ -7,5 +7,5 @@ Original file is located at
     https://colab.research.google.com/drive/1d3jIY-npi8C12fAE3Rdlndhv2ZDd89ik
 """
 
-openai_key="sk-RCHtAg9mZVzCimHMG1rUANiNxpglj5Y4DeipuDb3s4T3BlbkFJ0yDQ89MG3sCLR0d-JmKIazuRg0R7p8Nha_XZ30bHMA"
+openai_key="sk-oLQH1QdeniDC4-ateIoizqByI5L50StJaWGB0MQdmtT3BlbkFJdP1gfFkhoollwTcADtyBb-y39dzeesEA0H8gVPDr8A"
 
